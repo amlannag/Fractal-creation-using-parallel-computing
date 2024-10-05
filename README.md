@@ -1,6 +1,6 @@
 # COMP3710
 
-The following **PRIVATE** repository shows my COMP3710 A1. 
+The following repository shows my COMP3710 A1. 
 I have shows 3 iterations of what is called the pathogorean tree. 
 1. With static color and symetry (angle= pi/4) 
 2. With dynamic coloring using the depth of the dynamic tree and symetry 
