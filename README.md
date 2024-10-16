@@ -10,3 +10,11 @@ branch and pi/6 for the right branch
 The remainder of the demo can be found in the following google colab notebook:
 
 https://colab.research.google.com/drive/1sRVnjjvBsblp0RLj8Zej1eWKC1LtWBi6?authuser=0#scrollTo=RvX7oPtCuXp-
+
+Some of the fractals that were made are:
+
+![fractal1](tree.png)
+
+![fratal2](tree2.png)
+
+![fractal3](fractal3.png)
